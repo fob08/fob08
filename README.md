@@ -60,7 +60,7 @@
 <!-- Toolstack section end -->
 
 <h2>Certifications</h2>
-Here is some of the certifications which I currently possessed:
+Here are some of the certifications which I currently possessed:
 
 - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-gb/BadmusFadilulahiOlawale-2694/10D7194AAF919691?sharingId=B31C9933BC7BB5FB)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/b7820276-c730-49ce-8198-f044f3975d8f/public_url)
