@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**fob08/fob08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animation Typing -->
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+Olawale+Badmus.;I'm+a+DevOps+Engineer,+System+Administrator;"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Animation Typing: END -->
+
+
+<!-- Profile Views -->
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=fob08&label=Profile%20views&color=0e75b6&style=flat" alt="fob" />
+</p>
+
+<!-- Profile Views: END -->
