@@ -1,4 +1,4 @@
-### Hi there 👋
+<p align="center"><bold>Hi there 👋 </bold></p>
 
 <!-- Animation Typing -->
 
