@@ -27,15 +27,16 @@
 
   <li>🌱 I’m currently taking a deeper dive in <strong>Kubernetes</strong></li>
   
-  <li>👯 I’m looking to collaborate for `DevOps Projects`</li>
+  <li>👯 I’m looking to collaborate on <strong>DevOps Projects</strong></li>
   
   <li>🎉🌱 Fun Fact : I enjoy playing games (console and board), travel and hanging out with friends and colleagues</li>
 </ul>
 
 <!-- About me section: END -->
 
-<h2 align="center">🛠️ My Tool Stack:<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
+<!-- Toolstack section -->
 
+<h2 align="center">🛠️ My Tool Stack:<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 
 <p align="center">
  <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=F7DF1E"  height="25px"/>
@@ -56,6 +57,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
 </p>
 
+<!-- Toolstack section end -->
 
 <h2>Certifications</h2>
 Here is some of the certifications which I currently possessed:
