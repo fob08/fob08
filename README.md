@@ -1,4 +1,4 @@
-<p align="center"><strong>Hi there 👋 </strong></p>
+<h2 align="center"><strong>Hi there 👋 </strong></h2>
 
 <!-- Animation Typing -->
 
@@ -16,8 +16,25 @@
 </p>
 
 <!-- Profile Views: END -->
+<!-- About me section -->
 
-<h2 align="center">🛠️ Tool stack:<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
+<h2>⚡️ About Me</h2>
+
+<ul>
+  <li>🙋‍♂️ I’m Olawale Badmus</li>
+  
+  <li>👨‍💻 I am a graduate of Power Engineering that's transitioning to DevOps Engineering with experience in linux system administration, data analysis, Quality Assurance and technical writing</li>
+
+  <li>🌱 I’m currently taking a deeper dive in <strong>Kubernetes</strong></li>
+  
+  <li>👯 I’m looking to collaborate for `DevOps Projects`</li>
+  
+  <li>🎉🌱 Fun Fact : I enjoy playing games (console and board), travel and hanging out with friends and colleagues</li>
+</ul>
+
+<!-- About me section: END -->
+
+<h2 align="center">🛠️ My Tool Stack:<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 
 
 <p align="center">
@@ -40,23 +57,35 @@
 </p>
 
 
+<h2>Certifications</h2>
+Here is some of the certifications which I currently possessed:
+
+- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-gb/BadmusFadilulahiOlawale-2694/10D7194AAF919691?sharingId=B31C9933BC7BB5FB)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/b7820276-c730-49ce-8198-f044f3975d8f/public_url)
+- [Github Foundation](https://www.credly.com/badges/8dc9fe02-d2ee-4ac3-8f57-4913e54df17d/public_url)
+- [Microsoft Power BI Data Analyst Associate](https://www.credly.com/badges/9ec60b79-b101-465d-85c1-38f0a1854e0c/linked_in_profile)
+- [HackerRank SQL (Intermediate)](https://www.hackerrank.com/certificates/ce3c67fbe5cd)
+
+
 ## <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> What github says about me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> :
 
+<!--
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fob08&show_icons=true" />
 </div>
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fob08" alt="fob08" />
 </div>
+-->
 <div align="center">
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fob08&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 </div>
 
-### What I am listening to on Spotify now 🎧
+## ❤️ Let's get connected:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=26o602s6ilxds7n53m8k3rebd&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
-
+<p > <a href="https://x.com/fob08" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a>  <a href="www.linkedin.com/in/olawale-badmus" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/_fob18_" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+</p>
 
 
