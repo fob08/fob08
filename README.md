@@ -18,6 +18,10 @@
 <!-- Profile Views: END -->
 <!-- About me section -->
 
+<div align="center">
+  <img src ="./Olawale's banner.jpg" />
+</div>
+
 <h2>⚡️ About Me</h2>
 
 <ul>
